@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cr0s502
+- 👋 Hi, I’m Joan Cruz
 - 👀 I’m interested in Web Developer , Software developer.
 - 🌱 I’m currently learning HTML,CSS, JavaScritps, Python, Express, VueJS And Technical Support IT
 - 💞️ I’m looking to collaborate on Front-End and Back-End
