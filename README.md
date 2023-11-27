@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [landing-page-portfolio](https://github.com/cr0s502/MyPortfolio)
 
-- 🌱 I’m currently learning **Fast-API, ExpressJs**
+- 🌱 I’m currently learning **NodeJs, VueJs**
 
 - 👨‍💻 All of my projects are available at [https://cr0s502.github.io/MyPortfolio/](https://cr0s502.github.io/MyPortfolio/)
 
